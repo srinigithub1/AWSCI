@@ -65,7 +65,7 @@ public class Calculator_testNg {
 	@Test
 	public void testDivistion() {
 		Reporter.log("Checking Division funcaitonality");
-		Assert.assertEquals(6, objcalculator.divistion(12, 2));
+		Assert.assertEquals(60, objcalculator.divistion(12, 2));
 		
 	}
 	
