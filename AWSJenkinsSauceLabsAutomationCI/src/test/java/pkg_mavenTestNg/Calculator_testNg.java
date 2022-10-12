@@ -42,7 +42,7 @@ public class Calculator_testNg {
 	  Reporter.log("Checking Addiotn funcaitonality");
 	  
 				
-		Assert.assertEquals(18, objcalculator.addition(12, 6));
+		Assert.assertEquals(18, objcalculator.addition(12, 8));
 	}
 
 	@Test
